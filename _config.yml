@@ -65,8 +65,8 @@ plainwhite:
   date_format: "%b %-d, %Y"
 
   navigation:
-#    - title: Publications
-#      url: "/Publications"
+    - title: Publications
+      url: "/Publications"
     - title: About Me
       url: "/About Me"
   
