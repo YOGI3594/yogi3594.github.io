@@ -30,7 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  jekyll
 show_excerpts: true
 
-theme: plainwhite
+#theme: plainwhite
 
 # Build settings
 remote_theme: samarsault/plainwhite-jekyll
