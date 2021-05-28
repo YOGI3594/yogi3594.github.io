@@ -66,9 +66,9 @@ plainwhite:
 
   navigation:
     - title: Publications
-      url: "/Publications"
-    - title: About Me
-      url: "/About"
+      url: "/Publications/"
+    - title: About
+      url: "/About/"
   
   condensed_mobile:
     - home
@@ -97,7 +97,7 @@ plainwhite:
   # If you want to link only specific pages in your header, uncomment
   # this and add the path to the pages in order as they should show up
   header_pages:
-    - /Publications.md
+    - /JustAnotherTest.md
 
   sitemap: true
 
