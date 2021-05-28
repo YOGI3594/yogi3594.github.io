@@ -68,7 +68,7 @@ plainwhite:
     - title: Publications
       url: "/Publications"
     - title: About Me
-      url: "/About Me"
+      url: "/About"
   
   condensed_mobile:
     - home
